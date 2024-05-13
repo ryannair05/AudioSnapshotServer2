@@ -1,0 +1,9 @@
+Package: com.ryannair05.audiosnapshotserver2
+Name: AudioSnapshotServer 2
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A modified iOS mediaserverd hook to serve snapshots of current audio buffer via UDP
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Development
